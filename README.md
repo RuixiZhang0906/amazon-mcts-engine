@@ -17,7 +17,7 @@ This project aims to develop an intelligent agent to play the board game **Amazo
 
 ## 📌 Current Progress
 
-> ✅ Phase 1: Game Rule Engine & CLI  
+> ⬜ Phase 1: Game Rule Engine & CLI  （now)
 > ⬜ Phase 2: Basic MCTS Agent  
 > ⬜ Phase 3: Parallelization & SIMD  
 > ⬜ Phase 4: LLM-guided Search  
